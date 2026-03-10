@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+prophet
+xgboost
+scikit-learn
+vaderSentiment
+fredapi
+jupyter
+streamlit
+shap

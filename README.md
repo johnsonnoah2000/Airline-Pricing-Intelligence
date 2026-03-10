@@ -144,7 +144,7 @@ All dependencies are listed in `requirements.txt`. Key libraries include:
 
 ## 👤 Author
 
-- **Name:** TODO — Add your name
+- **Name:** TODO — Noah Johnson
 - **Program:** Data Science Masters
 - **Course:** Data Science with AI
 - **GitHub:** https://github.com/YOUR_USERNAME

@@ -2,11 +2,11 @@ pandas
 numpy
 matplotlib
 seaborn
-prophet
-xgboost
 scikit-learn
-vaderSentiment
-fredapi
+xgboost
 jupyter
-streamlit
-shap
+notebook
+fredapi
+vaderSentiment
+requests
+python-dotenv
